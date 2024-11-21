@@ -19,7 +19,7 @@
 # MAGIC
 # MAGIC Run the cell with autojob() with env="prod"
 # MAGIC
-# MAGIC The run the job with the python function.
+# MAGIC Then run the job with the python function.
 
 # COMMAND ----------
 
@@ -35,4 +35,4 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC shared-job-cluster-prod

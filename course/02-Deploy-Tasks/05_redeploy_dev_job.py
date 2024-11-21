@@ -8,7 +8,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC ## Task change the name of amount to full_amount in revenue_per_inhabitant data set
+# MAGIC ## Task: Change the name of amount to full_amount in revenue_per_inhabitant data set
 # MAGIC
 # MAGIC One way is to use the `alias()` function in pyspark for renaming.
 # MAGIC
@@ -35,7 +35,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Go to the notebook orgs/acme/domains/transport/projects/taxinyc/flows/prep/revenue/deploy, and run the autojob cell again.
+# MAGIC Go to the notebook `orgs/acme/domains/transport/projects/taxinyc/flows/prep/revenue/deploy`, and run the autojob cell again.
 # MAGIC
 # MAGIC Note that the output will say `Resetting job` instead of `Creating job`.
 # MAGIC

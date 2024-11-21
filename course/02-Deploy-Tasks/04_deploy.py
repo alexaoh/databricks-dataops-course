@@ -47,20 +47,21 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC A job is a definition of a worklow/job/pipelines, composed of many tasks orchestrated in a certain way, whereas a job run is an instantiation of it. One job has many job runs. 
 
 # COMMAND ----------
 
 # MAGIC %md
 # MAGIC ## Task: How was the job name composed?
 # MAGIC
-# MAGIC Write answer in the empty cell below.
 
 # COMMAND ----------
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC The name is: **acme_transport_taxinyc_prep_dev_alexander_featgh11015barcelona_c94b8749**
+# MAGIC
+# MAGIC It is composed by container_prep_dev_firstname_branchname_shortcommithash
 
 # COMMAND ----------
 
@@ -72,7 +73,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC On the job itself or inside each task in the job (inherited perhaps, not sure)
 
 # COMMAND ----------
 
